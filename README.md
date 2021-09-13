@@ -15,7 +15,7 @@ Normal text
 + oh wait I forgot another bullet point
 
 
-===================
+-------------------
 text below a divider
 
 
